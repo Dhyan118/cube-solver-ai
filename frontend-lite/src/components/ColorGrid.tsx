@@ -1,4 +1,3 @@
-import React from "react";
 export default function ColorGrid({ colors, size = 28 }: { colors: string[]; size?: number; }) {
   return (
     <div style={{

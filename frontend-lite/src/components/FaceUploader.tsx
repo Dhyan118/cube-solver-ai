@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import ColorGrid from "./ColorGrid";
 import { analyzeFace } from "../api";
 import { FaceKey, FaceData } from "../types";

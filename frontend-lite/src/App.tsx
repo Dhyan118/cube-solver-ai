@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import FaceUploader from "./components/FaceUploader";
 import ColorGrid from "./components/ColorGrid";
 import { FaceKey, FaceData, CubeFaces, UI_ORDER } from "./types";
