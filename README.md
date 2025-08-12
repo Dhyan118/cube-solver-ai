@@ -205,6 +205,6 @@ If you have any questions or need help:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Dhyan**
 
 *Solving Rubik's Cubes with AI, one face at a time! 🎲✨*
